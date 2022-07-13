@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Belendefranchi
-- 🌱 I’m currently learning Full Stack Web Development
+- 👨‍💻 SysAdmin
+- 🌱 Learning Full Stack Web Development
 - 📫 How to reach me <a href="https://www.linkedin.com/in/maria-bel%C3%A9n-de-franchi-26b00591/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 FRONTEND
